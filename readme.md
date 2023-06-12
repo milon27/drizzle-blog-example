@@ -1,5 +1,14 @@
 ## user will have list of blogs, blog can have many category also each category will have many blogs
 
+## how to run the project
+
+```bash
+# open the project in vscode
+pnpm i
+pnpm db:deploy
+pnpm dev
+```
+
 ### part 1 (project setup)
 
 - setup a typescript project
